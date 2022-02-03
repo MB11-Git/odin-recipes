@@ -1,8 +1,21 @@
 h1{text-align: center;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
-#home1{font-family: verdana;
-font-size: 50px;
-border: black;
-border-radius: 15%;
-}
+
+img{display: block;
+    width: 50%;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.text{margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+font-size: medium;   
+font-family:Verdana, Geneva, Tahoma, sans-serif}
+
+#insta{display: block;
+    height: 50px;
+    width: 50px;}
